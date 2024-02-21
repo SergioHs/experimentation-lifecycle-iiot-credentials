@@ -1,0 +1,9 @@
+{
+    "endpoint": "PUT http://localhost:8080/ api/devices/device_keys.dev_eui/keys",
+    "deviceKeys": {
+    "appKey": "71E10DF3782E42FEA9D3601BE76CA4EA",
+    "devEUI": "71657cf0d33e130a",
+    "genAppKey": "",
+    "nwkKey": "F3A53E80E69F5CBA7613DB62B1E77B9E"
+    }
+}

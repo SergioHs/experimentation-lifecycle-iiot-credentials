@@ -1,0 +1,8 @@
+
+{
+    "endpoint": "GET http://localhost:8080/ api/devices/device_keys.dev_eui/keys",
+    "error": "object does not exist",
+    "code": 5,
+    "message": "object does not exist",
+    "details": []
+}    

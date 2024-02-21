@@ -1,0 +1,20 @@
+{
+    "endpoint": "GET http://localhost:8080/api/devices/dev_eui/",
+    "device":
+    {
+        "devEUI": "f8033201000288e1",
+        "name": "MyDevice",
+        "applicationID": "1",
+        "description": "DEVICE",
+        "deviceProfileID": "017d73bb-d7da-4b0e-aa2a-ff05a3cb51cb",
+        "skipFCntCheck": false,
+        "referenceAltitude": 0,
+        "variables": "",
+        "tags": "",
+        "isDisabled": false
+    },
+    "lastSeenAt": null,
+    "deviceStatusBattery": 256,
+    "deviceStatusMargin": 256,
+    "location": null
+}

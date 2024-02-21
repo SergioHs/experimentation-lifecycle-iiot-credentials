@@ -1,0 +1,15 @@
+
+{
+    "endpoint": "POST http://localhost:8080/ /api/devices/ device_activation.dev_eui/activate",
+    "deviceActivation": {
+        "aFCntDown": 0,
+        "appSKey": "09a1c687b5de522321 d99e7f4c95aa9c",
+        "devAddr": "c1ff6012",
+        "devEUI": "71657cf0d33e130a",
+        "fCntUp": 0,
+        "fNwkSIntKey": "A5d308B01a5C67aDE18cA1fFE5ddd41c",
+        "nFCntDown": 0,
+        "nwkSEncKey": "aE5cb50C2A2465ce62688Bca1278af73",
+        "sNwkSIntKey": "0E3b8a6722CeD1EE2faA984AA76dCC1e"
+    }
+}

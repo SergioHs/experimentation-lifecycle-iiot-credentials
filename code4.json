@@ -1,0 +1,9 @@
+{
+    "endpoint": "POST http://localhost:8080/ api/devices/device_keys.dev_eui/keys",
+        "deviceKeys": {
+        "appKey": "c89009a6fdb9752f553e6f41e6ca659e",
+        "devEUI": "f8033201000288e1",
+        "genAppKey": "",
+        "nwkKey": "03a9694378866ef2e798b88c1b0206e5"
+    }
+}   

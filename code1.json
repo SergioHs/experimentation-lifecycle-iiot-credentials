@@ -1,0 +1,15 @@
+{
+    "endpoint": "POST http://localhost:8080/api/devices",
+     "device": {
+        "applicationID": "1",
+        "description": "DEVICE",
+        "devEUI": "f8033201000288e1",
+        "deviceProfileID": "1",
+        "isDisabled": false,
+        "name": "MyDevice",
+        "referenceAltitude": 0,
+        "skipFCntCheck": true,
+        "tags": {},
+        "variables": {}
+    }
+}
